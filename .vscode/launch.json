@@ -1,0 +1,280 @@
+{
+    // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+    // 기존 특성에 대한 설명을 보려면 가리킵니다.
+    // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ScannerEx3",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH09_packages.ScannerEx3",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch ScannerEx2",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH09_packages.ScannerEx2",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch ScannerEx1",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH09_packages.ScannerEx1",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch WrapperEx3",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH09_packages.WrapperEx3",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch WrapperEx1",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH09_packages.WrapperEx1",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringTokenizerEx",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH09_packages.StringTokenizerEx",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch temp",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH09_packages.temp",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringBUfferEx1",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH09_packages.StringBUfferEx1",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringEx5",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH09_packages.StringEx5",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringEx1",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH09_packages.StringEx1",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch CloneEx2",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH07_OOP2.CloneEx2",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch CardToString",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH08_Exception.CardToString",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashCodeEx1",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH09_packages.HashCodeEx1",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch EqualsEx2",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH09_packages.EqualsEx2",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch InvalidInputExceptionEx",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH08_Exception.InvalidInputExceptionEx",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintStackTraceEx",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH08_Exception.PrintStackTraceEx",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch getMessageEx2",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH08_Exception.getMessageEx2",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch getMessageEx1",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH08_Exception.GetMessageExample1.getMessageEx1",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExceptionEx8",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH08_Exception.ExceptionEx8",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exception7",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH08_Exception.Exception7",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch shallowcopy",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH07_OOP2.shallowcopy",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch deepcopy",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH07_OOP2.deepcopy",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch InnerEx8",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH07_OOP2.InnerEx8",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch InnerEx7",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH07_OOP2.InnerEx7",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch InnerEx4",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH07_OOP2.InnerEx4",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch GarbageEx",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH06_OOP1.GarbageEx",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch Class_Array",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH06_OOP1.Class_Array",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch instance_copy",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH06_OOP1.instance_copy",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch this_reference",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH06_OOP1.this_reference",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch temp",
+            "request": "launch",
+            "mainClass": "temp",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch HW2",
+            "request": "launch",
+            "mainClass": "PL.HW2",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch boj01977",
+            "request": "launch",
+            "mainClass": "BOJ.boj01977",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch boj03003",
+            "request": "launch",
+            "mainClass": "BOJ.boj03003",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch boj15963",
+            "request": "launch",
+            "mainClass": "BOJ.boj15963",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch boj17295",
+            "request": "launch",
+            "mainClass": "BOJ.boj17295",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch ch11_ArrayListEx1",
+            "request": "launch",
+            "mainClass": "CodeChobo.ch11_ArrayListEx1",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch HW1",
+            "request": "launch",
+            "mainClass": "PL.HW1",
+            "projectName": "Java Fundamental_f262b513"
+        }
+    ]
+}
