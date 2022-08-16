@@ -1,8 +1,8 @@
-package CodeChobo;
+package CodeChobo.CH11_Collections_Generic;
 
 import java.util.*;
 
-public class ch11_ArrayListEx1 {
+public class ArrayListEx1 {
 
     public static void main(String[] args)
     {
@@ -48,3 +48,4 @@ public class ch11_ArrayListEx1 {
         System.out.println("list2:"+list2);
     }
 }
+

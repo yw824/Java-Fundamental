@@ -6,6 +6,146 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch TreeSet2",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH11_Collections_Generic.TreeSet2",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch TreeSet1",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH11_Collections_Generic.TreeSet1",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch TreeSetLotto",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH11_Collections_Generic.TreeSetLotto",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashSet5",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH11_Collections_Generic.HashSet5",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashSetEx4",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH11_Collections_Generic.HashSetEx4",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashSetEx3",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH11_Collections_Generic.HashSetEx3",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bingo",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH11_Collections_Generic.Bingo",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashSetLotto",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH11_Collections_Generic.HashSetLotto",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashSetEx1",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH11_Collections_Generic.HashSetEx1",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch ComparatorEx",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH11_Collections_Generic.ComparatorEx",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArraysEx",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH11_Collections_Generic.ArraysEx",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch IteratorEx2",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH11_Collections_Generic.IteratorEx2",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch ListIteratorEx1",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH11_Collections_Generic.ListIteratorEx1",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch IteratorEx1",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH11_Collections_Generic.IteratorEx1",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch PriorityQueueEx",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH11_Collections_Generic.PriorityQueueEx",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch Stack_QueueEx",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH11_Collections_Generic.Stack_QueueEx",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayList_LinkedList_Test2",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH11_Collections_Generic.ArrayList_LinkedList_Test2",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayList_LinkedLIst_Test",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH11_Collections_Generic.ArrayList_LinkedLIst_Test",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListEx2",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH11_Collections_Generic.ArrayListEx2",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListEx1",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH11_Collections_Generic.ArrayListEx1",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
             "name": "Launch ScannerEx3",
             "request": "launch",
             "mainClass": "CodeChobo.CH09_packages.ScannerEx3",
