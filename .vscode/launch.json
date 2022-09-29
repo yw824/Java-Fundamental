@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch HashMapEx3",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH11_Collections_Generic.HashMapEx3",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashMapEx2",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH11_Collections_Generic.HashMapEx2",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashMapEx1",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH11_Collections_Generic.HashMapEx1",
+            "projectName": "Java Fundamental_f262b513"
+        },
+        {
+            "type": "java",
             "name": "Launch TreeSet2",
             "request": "launch",
             "mainClass": "CodeChobo.CH11_Collections_Generic.TreeSet2",
