@@ -7,6 +7,7 @@ public class temp{
         int n2 = (int)c2;
 
         System.out.println(n1-n2);
-        System.out.println("reset after 221002");
+        System.out.println("reset1 after 221002");
+        System.out.println("reset2 after 221002");
     }
 }
