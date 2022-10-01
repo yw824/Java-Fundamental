@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ArrayList_LinkedList_Test2",
+            "request": "launch",
+            "mainClass": "CodeChobo.CH11_Collections_Generic.ArrayList_LinkedList_Test2",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch temp",
+            "request": "launch",
+            "mainClass": "temp",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "Launch HashMapEx3",
             "request": "launch",
             "mainClass": "CodeChobo.CH11_Collections_Generic.HashMapEx3",
